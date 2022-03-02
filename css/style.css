@@ -68,7 +68,7 @@ body{
     .header .navbar{
         position: fixed;
         top: 6rem;
-        right: 0;
+        right: -120%;
         height: cal(100vh - 6rem);
         width: 100vw;
         background: rgba(0,0,0,.5);
